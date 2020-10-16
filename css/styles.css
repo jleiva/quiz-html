@@ -1,0 +1,67 @@
+#header {
+  max-width: 1440px;
+  background-color: #04071b;
+  z-index: 2; }
+
+.header-logo {
+  width: 14%;
+  padding-left: 7.22%;
+  padding-top: 10px;
+  margin-right: 41.59%;
+  float: left; }
+
+.header-nav {
+  padding-top: 25px; }
+  .header-nav a {
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-right: 2.5%; }
+
+.packages-title {
+  color: #271e3f;
+  font-size: 30px;
+  padding-top: 67px;
+  padding-bottom: 67px;
+  text-align: center;
+  text-transform: uppercase; }
+
+.packages-container {
+  width: 100%;
+  padding-left: 2.8%;
+  padding-right: 2.8%; }
+
+.packages-box {
+  width: 27.63%;
+  float: left;
+  margin-left: 2.7%;
+  margin-bottom: 52px; }
+
+div.information-image img {
+  width: 100%; }
+
+div.information-text {
+  background-image: url(/img/fb.png);
+  background-repeat: no-repeat; }
+
+.footer-nav {
+  background-color: #171717;
+  width: 100%;
+  text-align: center; }
+
+.footer-section1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  padding-bottom: 15px; }
+
+.footer-section3 {
+  color: white; }
+
+body {
+  max-width: 1440px;
+  margin: 0 auto; }
+
+.imgprincipal img {
+  width: 100%; }

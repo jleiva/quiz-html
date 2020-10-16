@@ -1,0 +1,23 @@
+#header{
+    max-width: 1440px;
+    background-color: #04071b;
+    z-index: 2;
+}
+.header-logo{
+    width: 14%;
+    padding-left: 7.22%;
+    padding-top: 10px;
+    margin-right: 41.59%;
+    float: left;
+}
+
+.header-nav{
+    padding-top: 25px;
+    a{
+        font-size: 16px;
+        color: white;
+        text-decoration: none;
+        margin-right: 2.5%;
+    }
+}
+

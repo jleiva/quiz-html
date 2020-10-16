@@ -1,0 +1,14 @@
+@import "./generals/header";
+@import "./generals/packages";
+@import "./generals/information";
+@import "./generals/footer";
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.imgprincipal{
+    img{
+        width: 100%;
+    }
+}
